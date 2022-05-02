@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSV Assignment", "HSV Assignment.csproj", "{150EA7A2-AA85-431B-95D9-D988812E4ECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{150EA7A2-AA85-431B-95D9-D988812E4ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150EA7A2-AA85-431B-95D9-D988812E4ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150EA7A2-AA85-431B-95D9-D988812E4ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150EA7A2-AA85-431B-95D9-D988812E4ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D6B9760-5FEF-47A0-9EF2-0904ECB5DC8D}
+	EndGlobalSection
+EndGlobal
